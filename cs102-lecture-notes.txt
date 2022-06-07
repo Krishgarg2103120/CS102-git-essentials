@@ -3,3 +3,9 @@ git push- used to push
 git add- used to save a file
 git commit- used to add comments
 git status- shows status
+
+Today we learned markdown.
+We learned about creatin web page through markdown.It is almost same as HTML. # is used to create heading of max size. 
+## is used for h2
+###used for h3 size 
+
