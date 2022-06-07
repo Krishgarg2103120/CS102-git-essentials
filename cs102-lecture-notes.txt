@@ -1,0 +1,5 @@
+git clone- used to clone reprosetary.
+git push- used to push
+git add- used to save a file
+git commit- used to add comments
+git status- shows status
